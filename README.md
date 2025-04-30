@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi, I'm Jamie 👋
+
+✨ I'm a technical support specialist with 10+ years of experience doing my best to provide stellar user experiences.
+
+📚 Currently expanding my skills in Python, JavaScript, and full-stack web development. I recently completed a batch at the [Recurse Center](https://www.recurse.com/), where I focused on deepening my programming knowledge through self-directed projects and collaboration.
+
+🌱 Seeking opportunities where I can further develop my technical skills while leveraging my deep experience in customer support.
+
+You can see more of my projects and check out my dev blog at [jamiepalatnik.com](https://jamiepalatnik.com/)
 
 <!--
 **jamiepalatnik/jamiepalatnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
