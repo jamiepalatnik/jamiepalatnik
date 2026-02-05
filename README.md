@@ -1,10 +1,8 @@
 ## Hi, I'm Jamie 👋
 
-✨ I'm a technical support specialist with 10+ years of experience doing my best to provide stellar user experiences.
+✨ I'm a technical support specialist with 10+ years of experience doing my best to provide stellar user experiences, currently at [ElevenLabs](https://elevenlabs.io/).
 
-📚 Currently expanding my skills in Python, JavaScript, and full-stack web development. I recently completed a batch at the [Recurse Center](https://www.recurse.com/), where I focused on deepening my programming knowledge through self-directed projects and collaboration.
-
-🌱 Seeking opportunities where I can further develop my technical skills while leveraging my deep experience in customer support.
+📚 In 2025 I completed a batch at the [Recurse Center](https://www.recurse.com/), where I focused on deepening my programming knowledge through self-directed projects and collaboration.
 
 You can see more of my projects and check out my dev blog at [jamiepalatnik.com](https://jamiepalatnik.com/)
 
